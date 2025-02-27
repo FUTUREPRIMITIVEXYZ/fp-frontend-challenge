@@ -54,8 +54,4 @@ You’ll work with **React Native Gesture Handler** to implement interactions.
 
 ## Additional Info
 
-Feel free to use any methodologies you'd incorporate into your typical development flow.
-
----
-
-Feel free to reach out if you have questions or need clarification on any aspect of this challenge. Good luck!
+Feel free to use any methodologies you'd incorporate into your typical development flow. Reach out if you have questions or need clarification on any aspect of this challenge. Good luck!
