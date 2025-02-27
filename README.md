@@ -2,7 +2,7 @@
 
 In this task, you’ll build an MVP version of the new **PERMA** image feed in React Native, focusing on gesture-based interactions and displaying a feed of images with attributions.
 
-![See Feed Design](./mobile/assets/design/feed-design.png)
+![See Feed Design](./assets/feed-design.png)
 
 You’ll work with **React Native Gesture Handler** to implement interactions. The **GestureHandlerRootView** provider is already in place in **_layout.tsx** so you don’t need to handle its configuration. 
 
