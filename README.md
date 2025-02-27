@@ -45,23 +45,7 @@ You’ll work with **React Native Gesture Handler** to implement interactions.
 
 ## Getting Started
 
-1. **Clone** the repo:  
-   ```bash
-   git clone https://github.com/FUTUREPRIMITIVEXYZ/perma-frontend-challenge
-   ```
-2. **Grab environment variables** (reach out to the team for specifics)
-3. **Install** the [Perma app](https://per.ma) from the iOS App Store
-4. **Navigate** to the mobile directory and **install** dependencies:  
-   ```bash
-   cd mobile
-   pnpm i
-   ```
-5. **Connect your iPhone** via USB
-6. **Build for device**:  
-   ```bash
-   pnpm build-device
-   ```
-7. **Scan the QR code** to launch Perma on your device
+1. **Clone** this repo
 
 ## Submit your work
 
