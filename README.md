@@ -8,6 +8,8 @@ At FP, we use [Expo](https://expo.dev) to facilitate building and deploying our 
 
 ![See Feed Design](./assets/feed-design.png)
 
+https://github.com/user-attachments/assets/412e6665-30d2-45e5-bb87-7146ec584fb9
+
 You'll assemble a component called **Feed**, which will allow a user to view images one by one and perform one of two actions for each item in the list:
 
 1. **Forward** to send the item to 1-n users
